@@ -1,0 +1,21 @@
+body {
+padding-top: 10px;
+padding-bottom: 20px;
+background-color:#FEFCF6;
+font-family: Helvetica, Georgia, Courier, Aria;
+}
+
+p {text-align: justify;}
+a, .cursorpointer { color: #BF4E25; text-decoration:underline; }
+a:hover{color: #76B4A7 !important; text-decoration: none; }
+hr { margin-top: 10px; margin-bottom: 10px; border-top: 2px solid #eee; }
+
+h1, #h1article {font-size:1.3em;}
+h2, h3, .titrebox {font-size:1.2em;} 
+h1, h2 { margin-top: 12px;}
+h3, .titrebox{margin-top: 8px;}
+h3 a, .titrebox a { color:#000; text-decoration: none !important; }
+h1,h2, h3, .titrebox, .navbar-menutop, .linkMenu  {font-family: Georgia, Helvetica, Courier, Aria; }
+#h1article { margin-bottom:25px }
+#h1article, .h2article, .h3article {margin-top:25px !important;text-transform:none;font-weight: 600;}
+
